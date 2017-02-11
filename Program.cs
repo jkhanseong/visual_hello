@@ -12,6 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Earth is mine");
+            Console.WriteLine("World is mine");
+            Console.WriteLine("Luna is mine");
         }
     }
 }
